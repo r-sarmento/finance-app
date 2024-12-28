@@ -1,2 +1,3 @@
-# finance-app
-Aplicativo de Gestão Financeira e Investimentos
+# Finance App
+
+Sistema de Finanças e Investimentos
